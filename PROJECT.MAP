@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 01C1BH 01C1CH PROJECT_TEXT       CODE
+ 01C20H 06BE7H 04FC8H _DATA              DATA
+ 06BF0H 06CEFH 00100H STACK              STACK
+ 06CF0H 1389DH 0CBAEH FILEBUF            
+
+Program entry point at 0000:0000
+

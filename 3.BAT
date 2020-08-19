@@ -1,0 +1,1 @@
+G:\tasm\TASM\bin\td %1
